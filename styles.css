@@ -100,6 +100,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  width: fit-content;
 }
 
 nav {
@@ -171,7 +172,7 @@ nav {
 }
 
 .header__container h1 {
-  font-size: 4rem;
+  font-size: 54px;
   font-weight: 500;
   line-height: 4.5rem;
   color: var(--white);
@@ -476,7 +477,8 @@ nav {
 }
 
 .footer {
-  background-color: #242323;;
+  background-color: #242323;
+  width: 385px;
 }
 
 .footer__container {
