@@ -100,7 +100,6 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  width: fit-content;
 }
 
 nav {
@@ -477,8 +476,7 @@ nav {
 }
 
 .footer {
-  background-color: #242323;
-  width: 385px;
+  background-color: #242323;;
 }
 
 .footer__container {
